@@ -7,7 +7,7 @@
 - 📫 How to reach me: shravy1202@gmail.com
 
   Languages And Tools:
-  HTML5,CSS,JS,Python,C++,C,Java,ReactJS,CakePHP,VSCode,Pycharm,Mysql
+  Java,HTML5,CSS,JS,Python,C++,C,Java,ReactJS,CakePHP,VSCode,Pycharm,Mysql
 
 
 
